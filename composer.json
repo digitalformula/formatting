@@ -1,0 +1,23 @@
+{
+  "name": "digitalformula/formatting",
+  "description": "Packagist package for basic formatting functions.",
+  "license": "MIT",
+  "keywords": [ "formatting", "php" ],
+  "authors": [
+    {
+      "name": "Chris Rasmussen",
+      "email": "packages@digitalformula.net",
+      "homepage": "http://digitalformula.net",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": ">=5.4.0"
+  },
+  "autoload": {
+    "psr-0": {
+      "DigitalFormula\\Formatting": "src/"
+    }
+  }
+}
