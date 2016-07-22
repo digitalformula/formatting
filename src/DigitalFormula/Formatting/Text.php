@@ -78,5 +78,5 @@ class Text
 		}
 		return $text;
 	}
-	
+
 }
